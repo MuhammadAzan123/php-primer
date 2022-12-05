@@ -19,7 +19,7 @@ echo $name;
 echo '<h1>My name is: ' . $name . '</h1>';
 echo '<h1>My Age is: ' . $Age . '</h1>';
 ?>
-<button type="button" class="btn btn-info">ClicK Me</button>
+<button type="button" class="btn btn-info">CLick The button</button>
 <?php
 require 'include/footer.php'
 ?>
